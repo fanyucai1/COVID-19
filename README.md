@@ -1,5 +1,4 @@
- # 基因组组装
- 
+
 ## 1. 基因组组装
 
 [coronaSPAdes](https://github.com/ablab/spades) is a special mode of rnaviralSPAdes specifically aimed for SARS-CoV-2 **de novo assembly**.
