@@ -51,3 +51,11 @@ software
 
 `lh3/minimap2 <https://github.com/lh3/minimap2>`_
 
+
+nextstrain
+===================
+
+`nextstrain view <https://docs.nextstrain.org/projects/cli/en/stable/commands/view/>`_
+
+
+
