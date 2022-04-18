@@ -19,7 +19,7 @@ Covidseq
 `Olson Nathan D,Lund Steven P,Colman Rebecca E et al. Best practices for evaluating single nucleotide variant calling methods for microbial genomics.[J] .Front Genet, 2015, 6: 235. <https://www.frontiersin.org/articles/10.3389/fgene.2015.00235/full>`_
 
 
-Database
+pipeline
 ++++++++++++++++++++++
 
 wget http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/public-latest.masked.pb.gz
@@ -29,9 +29,6 @@ wget https://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/wuhCor1.fa.gz
 wget https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
 `SARS-CoV-2 Phylogenetics tools UShER <https://usher-wiki.readthedocs.io/en/latest/tutorials.html>`_
-
-`virus-evolution gofasta <https://github.com/virus-evolution/gofasta>`_
-
 
 
 
@@ -45,4 +42,11 @@ command::
 software
 ==================
 
-`IQ-TREE `
+`IQ-TREE <http://www.iqtree.org/>`_
+
+`virus-evolution gofasta <https://github.com/virus-evolution/gofasta>`_
+
+`FastTree <http://www.microbesonline.org/fasttree/>`_
+
+`lh3/minimap2 <https://github.com/lh3/minimap2>`_
+
