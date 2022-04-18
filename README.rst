@@ -18,6 +18,7 @@ Covidseq
 
 `Olson Nathan D,Lund Steven P,Colman Rebecca E et al. Best practices for evaluating single nucleotide variant calling methods for microbial genomics.[J] .Front Genet, 2015, 6: 235. <https://www.frontiersin.org/articles/10.3389/fgene.2015.00235/full>`_
 
+`O’Toole Á, Scher E, Underwood A, et al. Assignment of epidemiological lineages in an emerging pandemic using the pangolin tool[J]. Virus Evolution, 2021, 7(2): veab064. <https://academic.oup.com/ve/article/7/2/veab064/6315289>`_
 
 pipeline
 ++++++++++++++++++++++
