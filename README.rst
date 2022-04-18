@@ -10,6 +10,8 @@ Covidseq
 
 `pangolin <https://cov-lineages.org/resources/pangolin.html>`_
 
+`cov-lineages pangolin <https://github.com/cov-lineages/pangolin>`_
+
 `COVID-19 Genomic Epidemiology Toolkit.pdf <./COVID-19 Genomic Epidemiology Toolkit.pdf>`
 
 ## 2. 构建进化树：
@@ -27,6 +29,11 @@ wget https://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/wuhCor1.fa.gz
 wget https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
 `SARS-CoV-2 Phylogenetics tools UShER <https://usher-wiki.readthedocs.io/en/latest/tutorials.html>`_
+
+`virus-evolution gofasta <https://github.com/virus-evolution/gofasta>`_
+
+
+
 
 
 command::
