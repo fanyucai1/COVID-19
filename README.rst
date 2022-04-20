@@ -12,7 +12,7 @@ Covidseq
 
 `cov-lineages pangolin <https://github.com/cov-lineages/pangolin>`_
 
-`COVID-19 Genomic Epidemiology Toolkit.pdf <./COVID-19 Genomic Epidemiology Toolkit.pdf>`
+`COVID-19 Genomic Epidemiology Toolkit <https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html>`_
 
 ## 2. 构建进化树：
 
@@ -51,6 +51,26 @@ software
 
 `lh3/minimap2 <https://github.com/lh3/minimap2>`_
 
+`viral-ngs: genomic analysis pipelines for viral sequencing <https://viral-ngs.readthedocs.io/en/latest/index.html>`_
+
+`Shovill Assemble bacterial isolate genomes from Illumina paired-end reads <https://github.com/tseemann/shovill>`_
+
+`Viral deep sequencing needs an adaptive approach: IRMA, the iterative refinement meta-assembler <https://github.com/peterk87/irma>`_
+
+`iVar: An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar <https://github.com/andersen-lab/ivar>`_
+
+`V-pipe is a workflow designed for the analysis of next generation sequencing (NGS) data from viral pathogens. <https://github.com/cbg-ethz/V-pipe>`_
+
+`fastv is an ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. <https://github.com/OpenGene/fastv>`_
+
+`Dryad - a pipeline to construct reference free core-genome or SNP phylogenetic trees for examining prokaryote relatedness in outbreaks. <https://staphb.org/staphb_toolkit/workflow_docs/dryad/>`_
+
+`CECRET - A workflow for generating consensus sequences from single or paired-end fastq.gz or fastq reads from amplicon prepared Illumina libraries. <https://staphb.org/staphb_toolkit/workflow_docs/cecret/>`_
+
+`Monroe - Bioinformatics pipeline for SARS-CoV-2 genome assembly and sample cluster detection. <https://staphb.org/staphb_toolkit/workflow_docs/monroe/>`_
+
+`ARTIC on Illumina Bioinformatic Workflow <https://github.com/CDCgov/SARS-CoV-2_Sequencing/tree/master/protocols/BFX-UT_ARTIC_Illumina>`_
+
 
 nextstrain
 ===================
@@ -59,3 +79,7 @@ nextstrain
 
 
 
+`Tracking SARS-CoV-2 variants <https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/>`_
+
+
+`SARS-CoV-2 Sequencing Resources <https://github.com/CDCgov/SARS-CoV-2_Sequencing>`_
