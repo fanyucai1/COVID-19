@@ -14,14 +14,19 @@ Covidseq
 
 `COVID-19 Genomic Epidemiology Toolkit <https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html>`_
 
+`Tracking SARS-CoV-2 variants <https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/>`_
+
+`nextstrain view <https://docs.nextstrain.org/projects/cli/en/stable/commands/view/>`_
+
+`SARS-CoV-2 Sequencing Resources <https://github.com/CDCgov/SARS-CoV-2_Sequencing>`_
+
 pipeline
 ++++++++++++++++++++++
+::
 
-wget http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/public-latest.masked.pb.gz
-
-wget https://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/wuhCor1.fa.gz
-
-wget https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
+    wget http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/public-latest.masked.pb.gz
+    wget https://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/bigZips/wuhCor1.fa.gz
+    wget https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
 `SARS-CoV-2 Phylogenetics tools UShER <https://usher-wiki.readthedocs.io/en/latest/tutorials.html>`_
 
@@ -64,19 +69,7 @@ software
 `ARTIC on Illumina Bioinformatic Workflow <https://github.com/CDCgov/SARS-CoV-2_Sequencing/tree/master/protocols/BFX-UT_ARTIC_Illumina>`_
 
 
-nextstrain
-===================
-
-`nextstrain view <https://docs.nextstrain.org/projects/cli/en/stable/commands/view/>`_
-
-
-`Tracking SARS-CoV-2 variants <https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/>`_
-
-
-`SARS-CoV-2 Sequencing Resources <https://github.com/CDCgov/SARS-CoV-2_Sequencing>`_
-
-
-参考文献
+Paper
 ======================
 
 `Olson Nathan D,Lund Steven P,Colman Rebecca E et al. Best practices for evaluating single nucleotide variant calling methods for microbial genomics.[J] .Front Genet, 2015, 6: 235. <https://www.frontiersin.org/articles/10.3389/fgene.2015.00235/full>`_
