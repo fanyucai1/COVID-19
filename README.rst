@@ -70,7 +70,6 @@ nextstrain
 `nextstrain view <https://docs.nextstrain.org/projects/cli/en/stable/commands/view/>`_
 
 
-
 `Tracking SARS-CoV-2 variants <https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/>`_
 
 
@@ -83,5 +82,21 @@ nextstrain
 `Olson Nathan D,Lund Steven P,Colman Rebecca E et al. Best practices for evaluating single nucleotide variant calling methods for microbial genomics.[J] .Front Genet, 2015, 6: 235. <https://www.frontiersin.org/articles/10.3389/fgene.2015.00235/full>`_
 
 `O’Toole Á, Scher E, Underwood A, et al. Assignment of epidemiological lineages in an emerging pandemic using the pangolin tool[J]. Virus Evolution, 2021, 7(2): veab064. <https://academic.oup.com/ve/article/7/2/veab064/6315289>`_
+
+`Greninger A L ,  Jennifer D B ,  Colgrove R C , et al. Clinical and Infection Prevention Applications of Severe Acute Respiratory Syndrome Coronavirus 2 Genotyping: An Infectious Diseases Society of America/American Society for Microbiology Consensus Review Document[J]. Clinical Infectious Diseases, 2021. <https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab761/6420112?login=false>`_
+
+`Bhoyar R C ,  Jain A ,  Sehgal P , et al. High throughput detection and genetic epidemiology of SARS-CoV-2 using COVIDSeq next-generation sequencing[J]. PLoS ONE, 2021, 16(2):e0247115. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247115>`_
+
+`Lemieux J E ,  Siddle K J ,  Shaw B M , et al. Phylogenetic analysis of SARS-CoV-2 in Boston highlights the impact of superspreading events[J]. Science, 2020, 371(6529):eabe3261. <https://www.science.org/doi/10.1126/science.abe3261>`_
+
+`Ultrafast Sample placement on Existing tRees (UShER) enables real-time phylogenetics for the SARS-CoV-2 pandemic[J]. Nature genetics, 53(6):809-816. <https://www.nature.com/articles/s41588-021-00862-7>`_
+
+`An Upgrade on the Surveillance System of SARS-CoV-2: Deployment of New Methods for Genetic Inspection <https://www.mdpi.com/1422-0067/23/6/3143>`_
+
+`Characteristics of the first 1119 SARS‐CoV‐2 Omicron variant cases, in Marseille, France, November−December 2021 <https://onlinelibrary.wiley.com/doi/10.1002/jmv.27613>`_
+
+`Detection and prevalence of SARS-CoV-2 co-infections during the Omicron variant circulation, France, December 2021 - February 2022 <https://www.medrxiv.org/content/10.1101/2022.03.24.22272871v1>`_
+
+
 
 
